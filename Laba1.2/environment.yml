@@ -3,7 +3,7 @@ channels:
   - defaults
 dependencies:
   - python=3.9
-  - matplotlib
-  - scikit-learn
   - numpy
+  - scikit-learn
+  - matplotlib
 prefix: Z:\Miniconda\envs\team2_env

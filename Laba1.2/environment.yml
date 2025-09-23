@@ -1,0 +1,9 @@
+name: team2_env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - matplotlib
+  - scikit-learn
+  - numpy
+prefix: Z:\Miniconda\envs\team2_env

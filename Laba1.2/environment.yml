@@ -1,0 +1,4 @@
+name: team2_env
+channels:
+  - defaults
+prefix: Z:\Miniconda\envs\team2_env
